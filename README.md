@@ -37,7 +37,7 @@
 &nbsp;
 
 ## 🌟 Contributions
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=VictorLSRodrigues&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=VictorLSRodrigues&theme=dark)
          
           
           
