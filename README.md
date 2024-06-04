@@ -43,7 +43,7 @@
 <!-- Link para os icones: https://devicon.dev/ -->
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> 
-    <img src=" https://cwiki.apache.org/confluence/display/NETBEANS/Apache+NetBeans+Logo+Contest.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/VictorLSRodrigues/jquery@3.6.4/src/core.min.js" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
     <p>
           
