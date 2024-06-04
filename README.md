@@ -1,52 +1,44 @@
 ### Hi there 👋, I'm Victor Lucio Scheuer Rodrigues
+[![Visits Badge](https://badges.pufler.dev/visits/VictorLSRodrigues/VictorLSRodrigues)](https://badges.pufler.dev) ![GitHub followers](https://img.shields.io/github/followers/VictorLSRodrigues?style=social) ![GitHub stars](https://img.shields.io/github/stars/VictorLSRodrigues?style=social)
 
-🌱 I’m currently learning Java,Python
+## 👨‍💻 About Me
+- 🌱 I’m currently learning Java,Python
+- 🌱 I’m currently improving my skills in **Java, GitHub, MySQL**, and planning to learn **Python**
+- 👯 I’m looking to collaborate on **website and app development**
+- 📫 How to reach me: victor.scheuer.rodrigues@gmail.com
 
-<!--
-**VictorLSRodrigues/VictorLSRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌍 Languages I Speak
+- 🇧🇷 Portuguese (Native)
+- 🇺🇸 English (Intermediate)
 
-Here are some ideas to get you started:
+## 🔗 Social Media
+[![LinkedIn]
+[![Email]
+[![Discord]
+[![WhatsApp]
+[![Steam]
+[![Instagram]
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Skills
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p>
-    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=VictorLSRodrigues&show_icons=true&locale=en&theme=dark" alt="VictorLSRodrigues" />
+    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=VictorLSRodrigues&show_icons=true&locale=en&theme=purple" alt="VictorLSRodrigues" />
     &nbsp;
     <img align="rigth" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorLSRodrigues&show_icons=true&locale=en&layout=compact&langs_count=7&theme=dark" alt="VictorLSRodrigues" />
 </p>
 
 &nbsp;
 
-## Tools and technologies
-<!-- Link para os icones: https://devicon.dev/ -->
-<p>
-    //<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/>           
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" width="40" height="40"/>           
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" width="40" height="40"/>
-</p>          
+## 🌟 Contributions
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=VictorLSRodrigues&theme=radical)
+         
           
           
           
