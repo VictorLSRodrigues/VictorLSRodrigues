@@ -13,7 +13,7 @@
 
 ## 🔗 Social Media
 [![LinkedIn]
-[![Email]
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.scheuer.rodrigues@gmail.com)
 [![Discord]
 [![WhatsApp]
 [![Steam]
@@ -29,7 +29,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p>
-    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=VictorLSRodrigues&show_icons=true&locale=en&theme=purple" alt="VictorLSRodrigues" />
+    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=VictorLSRodrigues&show_icons=true&locale=en&theme=darkpurple" alt="VictorLSRodrigues" />
     &nbsp;
     <img align="rigth" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorLSRodrigues&show_icons=true&locale=en&layout=compact&langs_count=7&theme=dark" alt="VictorLSRodrigues" />
 </p>
