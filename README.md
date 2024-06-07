@@ -42,11 +42,12 @@
 ## Tools and technologies
 <!-- Link para os icones: https://devicon.dev/ -->
 <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/VictorLSRodrigues/jquery@3.6.4/src/core.min.js" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+    <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg" width="40" height="40"/>
     <p>
-          
+         
           
           
           
