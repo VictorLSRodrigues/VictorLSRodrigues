@@ -37,7 +37,7 @@
 &nbsp;
 
 ## 🌟 Contributions
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=VictorLSRodrigues&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VictorLSRodrigues&theme=dark)](https://git.io/streak-stats)
 
 ## Tools and technologies
 <!-- Link para os icones: https://devicon.dev/ -->
